@@ -1,0 +1,3 @@
+My name is Parshu.
+This is my FTP practical.
+File transferred from Windows to Ubuntu.
